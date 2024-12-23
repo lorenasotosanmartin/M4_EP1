@@ -1,0 +1,81 @@
+.list__item{
+margin-right: 10px;
+
+}
+.list__icon{
+    font-size: 1rem;
+    color: #8c9094;
+}
+
+i{
+    padding-left: 5px;
+}
+
+footer{
+background-color: #EEEEEE;
+}
+
+.navbar{
+    box-shadow: 0 0 4px rgba(0, 0, 0, .3);
+}
+
+.row{
+    margin-inline:0  !important;
+    
+}
+
+main{
+    text-align: center;
+}
+
+
+.card__icon {
+    color: #0D6EFD;
+    font-size: 4rem;
+}
+
+.card{
+    margin: 1rem;
+}
+
+
+.map {
+    margin: 2rem 0rem;
+}
+
+.map__content {
+    padding: 1rem;
+    border:0;
+}
+
+.form__label {
+    margin-bottom: 0.5rem;
+    float: left;
+}
+
+
+.form__control {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.btn-group .card__button{
+    padding: 0.5rem;
+}
+
+.section_primary{
+background-color: aliceblue;
+height: 300px;
+}
+
+.react-datepicker-wrapper {
+display: block !important;
+margin-top: 0;
+}
+
+.react-datepicker-wrapper .form__control {
+    margin-top: 0;
+    }
