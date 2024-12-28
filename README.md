@@ -1,10 +1,10 @@
 # React + Vite
-#Ejercicio Práctico: Desarrollo de Componentes Básicos con ReactJS para el Proyecto del Hospital
+# Ejercicio Práctico: Desarrollo de Componentes Básicos con ReactJS para el Proyecto del Hospital
 
-##Descripción 
+## Descripción 
 En esta actividad, se implementan componentes reutilizables para distintas secciones de la web del hospital, usando JSX para renderizar datos y manejar el flujo de información con props. También, Hooks y formularios para manejar la interacción del usuario.
 
-###Estructura principal de carpetas
+### Estructura principal de carpetas
 - **assets:** carpeta que contiene los elementos graficos del sitio web, en este caso, imagenes.
 - **components:** carpeta que contiene todos los componentes creados y utilizados en el sitio web, como header y footer.
 - **data:** contiene los archivos JSON con los cuales se trabaja.
