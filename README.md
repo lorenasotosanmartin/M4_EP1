@@ -1,4 +1,3 @@
-# React + Vite
 # Ejercicio Práctico: Desarrollo de Componentes Básicos con ReactJS para el Proyecto del Hospital
 
 ## Descripción 
